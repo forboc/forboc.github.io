@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Forboc</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=31" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=49" rel="self" type="application/rss+xml" />
 	<link>httpforboc.github.io/</link>
 	<description>Exploring mystic realms, untold secrets, and the shadows between dimensions. Embark on a journey into the enigmatic unknown.</description>
-	<lastBuildDate>Sat, 05 Aug 2023 02:54:34 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Aug 2023 03:01:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
