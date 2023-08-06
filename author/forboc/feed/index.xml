@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Forboc</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=193" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<title>Forboc, Author at Forboc</title>
+	<atom:link href="http://localhost/author/forboc/feed/?simply_static_page=209" rel="self" type="application/rss+xml" />
+	<link>/author/forboc/</link>
 	<description>Exploring mystic realms, untold secrets, and the shadows between dimensions. Embark on a journey into the enigmatic unknown.</description>
 	<lastBuildDate>Sun, 06 Aug 2023 04:05:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>/wp-content/uploads/2023/08/forboc-150x150.jpg</url>
-	<title>Forboc</title>
-	<link>/</link>
+	<title>Forboc, Author at Forboc</title>
+	<link>/author/forboc/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
