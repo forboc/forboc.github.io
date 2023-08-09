@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for Forboc	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=550" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=691" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Exploring mystic realms, untold secrets, and the shadows between dimensions. Embark on a journey into the enigmatic unknown.</description>
-	<lastBuildDate>Tue, 08 Aug 2023 18:34:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Aug 2023 01:47:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 </channel>
 </rss>
