@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Forboc</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=895" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=992" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Exploring mystic realms, untold secrets, and the shadows between dimensions. Embark on a journey into the enigmatic unknown.</description>
-	<lastBuildDate>Wed, 09 Aug 2023 04:02:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Aug 2023 04:18:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -306,7 +306,7 @@
 
 
 
-<p class="has-text-align-center has-text-color glitch has-bungee-hairline-font-family" style="color:#281806" data-text="navigating the depths of forbidden knowledge and dark tomes">navigating the depths of forbidden knowledge and dark tomes</p>
+<p class="has-text-align-center has-text-color glitch has-bungee-hairline-font-family" style="color:#43260A" data-text="navigating the depths of forbidden knowledge and dark tomes">navigating the depths of forbidden knowledge and dark tomes</p>
 
 
 
