@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Whispering Shadows of the Otherworld	</title>
-	<atom:link href="http://localhost/whispering-shadows-of-the-otherworld/feed/?simply_static_page=2386" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/whispering-shadows-of-the-otherworld/feed/?simply_static_page=2474" rel="self" type="application/rss+xml" />
 	<link>/whispering-shadows-of-the-otherworld/</link>
 	<description>Exploring mystic realms, untold secrets, and the shadows between dimensions. Embark on a journey into the enigmatic unknown.</description>
 	<lastBuildDate>Sun, 20 Aug 2023 06:42:54 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

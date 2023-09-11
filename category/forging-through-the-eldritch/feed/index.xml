@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Forging Through the Eldritch Archives | Forboc</title>
-	<atom:link href="http://localhost/category/forging-through-the-eldritch/feed/?simply_static_page=2390" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/forging-through-the-eldritch/feed/?simply_static_page=2481" rel="self" type="application/rss+xml" />
 	<link>/category/forging-through-the-eldritch/</link>
 	<description>Exploring mystic realms, untold secrets, and the shadows between dimensions. Embark on a journey into the enigmatic unknown.</description>
 	<lastBuildDate>Sun, 20 Aug 2023 06:42:54 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/08/cropped-forboc-32x32.jpg</url>
