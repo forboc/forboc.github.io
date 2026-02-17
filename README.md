@@ -9,6 +9,8 @@
 **ᚠ ᛫ ᛟ ᛫ ᚱ ᛫ ᛒ ᛫ ᛟ ᛫ ᚲ**
 
 _We find our spirit amidst eerie foliage._
+## License
+All rights reserved. © 2026 ForbocAI. See [LICENSE](./LICENSE) for full details.
 
 </div>
 ## 🌑 Aesthetic Protocols
